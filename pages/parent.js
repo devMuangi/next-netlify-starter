@@ -1,4 +1,4 @@
 export default function Header({ title }) {
-    return <h1>Welcome parent</h1>
+    return <h1>Welcome to comido school parent</h1>
   }
   

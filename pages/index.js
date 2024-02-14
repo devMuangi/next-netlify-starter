@@ -28,7 +28,7 @@ export default function Home() {
           </li>
           <li>
             <Link href="/teacher">
-              <p>Teacher</p>
+              <p>Staff</p>
             </Link>
           </li>
           <li>
